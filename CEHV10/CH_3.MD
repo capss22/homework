@@ -1,23 +1,25 @@
 # page9
+
+# This is not to say that encryption guarantees confidentiality.
 ```
-This is not to say that encryption guarantees confidentiality.
 這並不是說加密可以保證機密性。
 encryption 加密
 guarantees 保證
 ```
+
+# If an attacker can get to the key in some way, the attacker can then decrypt the data.
 ```
-If an attacker can get to the key in some way, the attacker can then decrypt the data.
 如果攻擊者可以某種方式獲得密鑰，則攻擊者可以解密數據。
 decrypt 解密
 ```
 ```
 Attacks against the encryption mechanisms—ciphers, key exchange algorithms, and so on—can also lead to a compromise of confidentiality.
-attcks              攻擊者
-encryption          加密
-mechanisms            機制
-ciphers, key          密碼,密鑰
+attcks  攻擊者
+encryption  加密
+mechanisms    機制
+ciphers, key   密碼,密鑰
 exchange algorithms   交換演算法
-lead to a             導致
+lead to a     導致
 ```
 ```
 and there have been successful attacks against various encryption methods and standards, will lead to ciphertext being decrypted
