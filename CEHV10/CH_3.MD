@@ -12,8 +12,9 @@ guarantees 保證
 如果攻擊者可以某種方式獲得密鑰，則攻擊者可以解密數據。
 decrypt 解密
 ```
-```
-Attacks against the encryption mechanisms—ciphers, key exchange algorithms, and so on—can also lead to a compromise of confidentiality.
+
+# Attacks against the encryption mechanisms—ciphers, key exchange algorithms, and so on—can also lead to a compromise of confidentiality.
+````
 attcks  攻擊者
 encryption  加密
 mechanisms    機制
@@ -21,8 +22,9 @@ ciphers, key   密碼,密鑰
 exchange algorithms   交換演算法
 lead to a     導致
 ```
+
+# and there have been successful attacks against various encryption methods and standards, will lead to ciphertext being decrypted
 ```
-and there have been successful attacks against various encryption methods and standards, will lead to ciphertext being decrypted
 並且已經成功攻擊了各種加密方法和標準，將導緻密文被解密
 have been         已經
 successful        成功
@@ -33,7 +35,7 @@ methods           方式
 
 
 ```
-```
+
 A successful attack against the encryption
 successful 成功的
 encryption 加密
